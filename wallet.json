@@ -1,0 +1,17 @@
+{
+  "default_rpc": "https://octra.network",
+  "wallets": {
+    "222": {
+      "name": "222",
+      "priv": "+aVBrvzdOR/7+rvl+NwfC7f0uSIWJEdHtinfIqbMesQ=",
+      "addr": "octG27eCrRB8HqoHz5nfje7aDM62prKLNMqiABnqNDxJJki",
+      "rpc": "https://octra.network"
+    },
+    "풀관1": {
+      "name": "풀관1",
+      "priv": "58d225be1249f8445d33edfac0ddeef168e09184e33211429af00cecdd0286df",
+      "addr": "octA28u56GGvmz7exSoPkuYqTjYVaxJtf2YRzCGHbYAFQCi",
+      "rpc": "https://octra.network"
+    }
+  }
+}
